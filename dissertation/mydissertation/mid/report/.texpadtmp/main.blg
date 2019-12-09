@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/hyc/github/learning/dissertation/mydissertation/mid/report/.texpadtmp/main.aux
+The style file: ieeetr.bst
+Database file #1: ../wp_ref.bib
+Repeated entry---line 54 of file ../wp_ref.bib
+ : @article{wan2015photovoltaic
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 86 of file ../wp_ref.bib
+ : @article{yang2014solar
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Ketkar2017Convolutional
+Warning--empty journal in gers1999learning
+You've used 18 entries,
+            1876 wiz_defined-function locations,
+            583 strings with 7106 characters,
+and the built_in function-call counts, 5155 in all, are:
+= -- 519
+> -- 208
+< -- 0
++ -- 76
+- -- 58
+* -- 377
+:= -- 738
+add.period$ -- 18
+call.type$ -- 18
+change.case$ -- 18
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 258
+empty$ -- 464
+format.name$ -- 58
+if$ -- 1241
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 18
+newline$ -- 57
+num.names$ -- 18
+pop$ -- 46
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 177
+stack$ -- 0
+substring$ -- 387
+swap$ -- 112
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 54
+width$ -- 20
+write$ -- 174
+(There were 2 error messages)

@@ -1,0 +1,8 @@
+## 1. basic structure
+
+![image-20191106215853500](assets/image-20191106215853500.png)
+
+![image-20191106215947468](assets/image-20191106215947468.png)
+
+![image-20191106220340160](assets/image-20191106220340160.png)
+
