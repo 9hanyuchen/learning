@@ -1,0 +1,32 @@
+\BOOKMARK [0][-]{chapter*.1}{Abstract}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{Declaration}{}% 2
+\BOOKMARK [0][-]{chapter*.3}{Acknowledgements}{}% 3
+\BOOKMARK [0][-]{chapter*.4}{Contents}{}% 4
+\BOOKMARK [0][-]{chapter*.5}{List of Tables}{}% 5
+\BOOKMARK [0][-]{chapter*.6}{List of Figures}{}% 6
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 7
+\BOOKMARK [1][-]{section*.7}{Scope}{chapter.1}% 8
+\BOOKMARK [1][-]{section*.8}{Problem Statement}{chapter.1}% 9
+\BOOKMARK [1][-]{section*.9}{Approach}{chapter.1}% 10
+\BOOKMARK [1][-]{section*.10}{ Organization of Thesis}{chapter.1}% 11
+\BOOKMARK [0][-]{chapter.2}{Background and review of literature}{}% 12
+\BOOKMARK [0][-]{chapter.3}{Theory}{}% 13
+\BOOKMARK [1][-]{section*.11}{MLP}{chapter.3}% 14
+\BOOKMARK [1][-]{section*.15}{CNN}{chapter.3}% 15
+\BOOKMARK [1][-]{section*.24}{LSTM}{chapter.3}% 16
+\BOOKMARK [0][-]{chapter.4}{Analysis and Design}{}% 17
+\BOOKMARK [1][-]{subsection*.28}{Data}{chapter.4}% 18
+\BOOKMARK [2][-]{subsection*.34}{Notation}{subsection*.28}% 19
+\BOOKMARK [2][-]{subsection*.35}{DESIGN OF THE PROPOSED ALGORITHM}{subsection*.28}% 20
+\BOOKMARK [0][-]{chapter.5}{Methods and Realization}{}% 21
+\BOOKMARK [1][-]{subsection*.44}{Experimental environment}{chapter.5}% 22
+\BOOKMARK [2][-]{subsection*.45}{Data preprocessing}{subsection*.44}% 23
+\BOOKMARK [2][-]{subsection*.46}{Standardization}{subsection*.44}% 24
+\BOOKMARK [2][-]{subsection*.47}{Detail of Experiment}{subsection*.44}% 25
+\BOOKMARK [2][-]{subsection*.48}{Error metrics}{subsection*.44}% 26
+\BOOKMARK [0][-]{chapter.6}{Results and Evaluation}{}% 27
+\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 28
+\BOOKMARK [1][-]{section*.55}{Summary}{chapter.7}% 29
+\BOOKMARK [1][-]{section*.56}{Limitation}{chapter.7}% 30
+\BOOKMARK [1][-]{section*.57}{Prospects for Further Work}{chapter.7}% 31
+\BOOKMARK [0][-]{section*.57}{References Cited}{}% 32

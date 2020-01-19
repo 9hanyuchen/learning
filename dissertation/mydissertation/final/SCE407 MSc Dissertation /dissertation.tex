@@ -1,0 +1,200 @@
+\documentclass[a4paper,10pt,oneside]{book}
+
+\pagestyle{plain}
+\usepackage{amsmath}
+\usepackage{graphics}
+\usepackage{makeidx}
+\usepackage{nomencl}
+\usepackage{setspace} 
+\usepackage[utf8]{inputenc}
+\usepackage{eurosym}
+
+\usepackage{natbib}
+
+\usepackage{subfigure}
+\usepackage{booktabs} % prettier tables
+\usepackage{listings} % Pretty-printing source code
+\usepackage{caption} % For custom caption styling in e.g. listings
+\usepackage{datetime}
+
+% This is the same geometry as in the .dot file provided by Liverpool
+% Had to adjust the bottom margin because Liverpool's was much too small
+\usepackage[top=2.3cm, bottom=2.54cm, left=3.05cm, right=3.05cm]{geometry}
+
+% disables section and subsection numbering but leaves chapter numbering intact
+\setcounter{secnumdepth}{0} 
+
+% Arial is just a very cheap copy of Helvetica, so here is the real deal.
+% UoL demands the use of a sans-serif font on blocks of text, so let's comply
+\usepackage[T1]{fontenc}
+
+% Helvetica doesn't really need to be set specifically, because pslatex
+% includes setting the sans-serif font to Helvetica
+\usepackage[scaled]{helvet}
+
+% same as Times, but uses a specially narrowed Courier. This is preferred over 
+% Times because of the way it handles Courier.
+\usepackage{pslatex}
+\renewcommand*\familydefault{\sfdefault}
+
+% DANGER: Underlining section titles is considered bad typography. We
+% do it anyway because UoL likes it
+
+% titlesec seems to work better than sectsty for this horrible purpose 
+\usepackage{titlesec}
+\titleformat{\chapter} {\fontsize{14}{14}\rmfamily\bfseries\scshape\centering}{\chaptertitlename\ \thechapter.}{.5em}{}{} 
+\titleformat{\section} {\fontsize{12}{12}\rmfamily\bfseries}{\thesection}{.5em}{\underline}{}
+\titleformat{\subsection} {\fontsize{12}{12}\rmfamily\bfseries}{\thesection}{.5em}{\underline}{}
+\titleformat{\subsubsection} {\fontsize{12}{12}\rmfamily\bfseries}{\thesection}{.5em}{\underline}{}
+
+
+% --- Colors
+% UoL does not explicitly call for these, but they at least make it possible to
+% tell a link/URL apart from normal text
+\usepackage{color}
+\definecolor{DarkBlue}{rgb}{0,0.03,0.25}
+\definecolor{LightGray}{rgb}{0.97,0.97,0.97}
+
+
+\usepackage[colorlinks]{hyperref}
+\hypersetup{colorlinks=true,linkcolor=DarkBlue,anchorcolor=DarkBlue,citecolor=DarkBlue,filecolor=DarkBlue,urlcolor=DarkBlue}
+
+\usepackage[pdftex]{graphicx}
+
+
+
+% --- Code listings
+
+%this new format will add a horizontal rule before the caption,
+%and will put the caption label (i.e., "Algorithm" and its number) in boldface
+%and use a period as separator
+\DeclareCaptionFormat*{mystyle}{\singlespacing\noindent\hrulefill\par\bfseries#1.\space\normalfont#3\par}
+%use the newly created format in lstlisting environments and if the caption
+%or title fits in a single line, do not center it
+\captionsetup[lstlisting]{format=mystyle,singlelinecheck=false}
+
+%add two horizontal lines and increase the vertical space between the caption
+%and the listing
+\lstset{breaklines=true,basicstyle=\ttfamily,frame=tb,belowcaptionskip=1em,tabsize=2,backgroundcolor=\color{LightGray}}
+
+
+% --- Bibliography style (UoL demands Harvard for MSc but doesn't care much about that for PhD)
+\usepackage{natbib}
+\bibliographystyle{ieeetr}
+
+% This is the title from the .dot file
+\renewcommand\bibname{References Cited}
+
+% Without this, the bibstyle would use \harvardurl, which breaks
+% on special characters such as _ in URLs
+\usepackage{url}
+\renewcommand{\harvardurl}{URL: \url}
+
+% Put a , between author name and year
+\bibpunct{(}{)}{,}{a}{,}{;}
+
+
+
+% Penalize widows/orphans to prevent them
+% Enable or disable as necessary
+\widowpenalty=10000
+\clubpenalty=10000
+
+
+\makeindex
+\makeglossary
+\begin{document}
+
+\include{title}
+
+\frontmatter
+
+
+% Double spacing was in the .dot file on the normal paragraph text
+\doublespacing
+
+% No paragraph indendation. The .dot file is very inconsistent about this,
+% so we don't know what UoL actually wants in this case.
+\setlength{\parindent}{0in}
+\setlength{\parskip}{10pt} 
+
+
+\chapter{Abstract}
+
+ Short-term photovoltaic value predicting can effectively save energy and efficient manage power grid efficiently. In this thesis, the dataset is divided into two parts. One part is derived from the panels of photovoltaic value. The other part is derived from the photovoltaic panels on the side of the camera to capture image around the sun. Through  neural network,  the sky image and the relationship between the photovoltaic value can be obtained. Based on three kinds of neural network structure, the MLP, CNN, LSTM,  three different structure of the neural networks are designed. In experiments, the photovoltaic value and the images preprocess respectively, which are the input data of neural networks. Experiments shows that the MLP model scored RMSE 10\% higher than the persistence model  in the 1-minute photovoltaic value prediction. The CNNs model combined with image features performed better, scoring 11\%. The LSTMs score was up to 15\%. LSTMs has the best performance among them.
+ 
+
+
+\textbf{Keywords:} photovoltaic value; sky image; CNN; MLP; LSTM; prediction
+
+
+
+
+\chapter{Declaration}
+
+I hereby certify that this dissertation constitutes my own product, that where the language of others is set forth, quotation marks so indicate, and that appropriate credit is given where I have used the language, ideas, expressions, or writings of another.
+
+I declare that the dissertation describes original work that has not previously been presented for the award of any other degree of any institution.
+
+Signed,
+
+Yuchen.Han
+
+
+\chapter{Acknowledgements}
+
+
+I would like to take this chance to express my deepest gratitude to my supervisor – Dr. Fei Cheng, for his patient guidance, support, encouragement and advice he offered throughout the time of studying for my master’s degree.
+
+I am extremely grateful for  my parents and friends who contribute to this thesis with support, encouragement, friendship and love during the past year.
+
+
+
+% No parskip during ToC etc.
+\setlength{\parskip}{0pt} 
+
+
+\tableofcontents
+
+% Contents not put in table of contents by default so add it separately
+
+\addcontentsline{toc}{chapter}{Contents}
+
+\listoftables
+% List of figures  not put in table of contents by default so add it separately
+\addcontentsline{toc}{chapter}{List of Tables}
+
+\listoffigures
+% List of figures  not put in table of contents by default so add it separately
+\addcontentsline{toc}{chapter}{List of Figures}
+
+
+% Longer skip after paragraphs for the main bodies of text
+\setlength{\parskip}{10pt} 
+
+
+\mainmatter
+
+
+% Include the main content (chapters, sections, subsections, appendices)
+\include{content}
+
+
+% Switch back to single spacing so things don't look so ugly in these sections
+\singlespacing
+
+% Don't forget to supply a dissertation.bib file with your bibliography in
+% BibTex format
+
+
+
+
+\addcontentsline{toc}{chapter}{References Cited}
+
+\bibliographystyle{ieeetr}
+\bibliography{wp_ref}
+
+
+
+
+\end{document}

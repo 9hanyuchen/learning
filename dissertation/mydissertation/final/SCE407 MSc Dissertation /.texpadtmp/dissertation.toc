@@ -1,0 +1,43 @@
+\contentsline {chapter}{Abstract}{i}{chapter*.1}
+\contentsline {chapter}{Declaration}{ii}{chapter*.2}
+\contentsline {chapter}{Acknowledgements}{iii}{chapter*.3}
+\contentsline {chapter}{Contents}{v}{chapter*.4}
+\contentsline {chapter}{List of Tables}{vi}{chapter*.5}
+\contentsline {chapter}{List of Figures}{vii}{chapter*.6}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{Scope}{1}{section*.7}
+\contentsline {section}{Problem Statement}{1}{section*.8}
+\contentsline {section}{Approach}{2}{section*.9}
+\contentsline {section}{ Organization of Thesis}{3}{section*.10}
+\contentsline {chapter}{\numberline {2}Background and review of literature}{4}{chapter.2}
+\contentsline {chapter}{\numberline {3}Theory}{6}{chapter.3}
+\contentsline {section}{MLP}{6}{section*.11}
+\contentsline {section}{CNN}{8}{section*.15}
+\contentsline {subsubsection}{structure of CNN}{9}{subsubsection*.17}
+\contentsline {subsubsection}{convolutional layer}{9}{subsubsection*.18}
+\contentsline {subsubsection}{pooling layer}{10}{subsubsection*.19}
+\contentsline {subsubsection}{fully connected layer}{10}{subsubsection*.20}
+\contentsline {subsubsection}{activation layer}{10}{subsubsection*.21}
+\contentsline {section}{LSTM}{12}{section*.24}
+\contentsline {chapter}{\numberline {4}Analysis and Design}{16}{chapter.4}
+\contentsline {subsection}{Data}{16}{subsection*.28}
+\contentsline {subsubsection}{Data capture}{16}{subsubsection*.29}
+\contentsline {subsubsection}{Data preprocessing}{17}{subsubsection*.33}
+\contentsline {subsection}{Notation}{17}{subsection*.34}
+\contentsline {subsection}{DESIGN OF THE PROPOSED ALGORITHM}{18}{subsection*.35}
+\contentsline {subsubsection}{MLP}{18}{subsubsection*.36}
+\contentsline {subsubsection}{CNN}{19}{subsubsection*.38}
+\contentsline {subsubsection}{LSTM}{20}{subsubsection*.41}
+\contentsline {subsubsection}{Loss function}{20}{subsubsection*.43}
+\contentsline {chapter}{\numberline {5}Methods and Realization}{22}{chapter.5}
+\contentsline {subsection}{Experimental environment}{22}{subsection*.44}
+\contentsline {subsection}{Data preprocessing}{22}{subsection*.45}
+\contentsline {subsection}{Standardization}{23}{subsection*.46}
+\contentsline {subsection}{Detail of Experiment}{23}{subsection*.47}
+\contentsline {subsection}{Error metrics}{24}{subsection*.48}
+\contentsline {chapter}{\numberline {6}Results and Evaluation}{25}{chapter.6}
+\contentsline {chapter}{\numberline {7}Conclusions}{29}{chapter.7}
+\contentsline {section}{Summary}{29}{section*.55}
+\contentsline {section}{Limitation}{29}{section*.56}
+\contentsline {section}{Prospects for Further Work}{30}{section*.57}
+\contentsline {chapter}{References Cited}{31}{section*.57}

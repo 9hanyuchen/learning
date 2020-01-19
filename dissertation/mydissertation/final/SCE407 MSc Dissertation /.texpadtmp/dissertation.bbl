@@ -1,0 +1,163 @@
+\begin{thebibliography}{10}
+
+\bibitem{wang2011path}
+R.~Wang, W.~Liu, L.~Xiao, J.~Liu, and W.~Kao, ``Path towards achieving of
+  china's 2020 carbon emission reduction target—a discussion of low-carbon
+  energy policies at province level,'' {\em Energy Policy}, vol.~39, no.~5,
+  pp.~2740--2747, 2011.
+
+\bibitem{li2016multi}
+F.-F. Li and J.~Qiu, ``Multi-objective optimization for integrated
+  hydro--photovoltaic power system,'' {\em Applied energy}, vol.~167,
+  pp.~377--384, 2016.
+
+\bibitem{wan2015photovoltaic}
+C.~Wan, J.~Zhao, Y.~Song, Z.~Xu, J.~Lin, and Z.~Hu, ``Photovoltaic and solar
+  power forecasting for smart grid energy management,'' {\em CSEE Journal of
+  Power and Energy Systems}, vol.~1, no.~4, pp.~38--46, 2015.
+
+\bibitem{yang2014solar}
+H.~Yang, B.~Kurtz, D.~Nguyen, B.~Urquhart, C.~W. Chow, M.~Ghonima, and
+  J.~Kleissl, ``Solar irradiance forecasting using a ground-based sky imager
+  developed at uc san diego,'' {\em Solar Energy}, vol.~103, pp.~502--524,
+  2014.
+
+\bibitem{huld2012new}
+T.~Huld, R.~M{\"u}ller, and A.~Gambardella, ``A new solar radiation database
+  for estimating pv performance in europe and africa,'' {\em Solar Energy},
+  vol.~86, no.~6, pp.~1803--1815, 2012.
+
+\bibitem{liu2018wind}
+H.~Liu, X.-w. Mi, and Y.-f. Li, ``Wind speed forecasting method based on deep
+  learning strategy using empirical wavelet transform, long short term memory
+  neural network and elman neural network,'' {\em Energy conversion and
+  management}, vol.~156, pp.~498--514, 2018.
+
+\bibitem{li2018prediction}
+Y.~Li and H.~Cao, ``Prediction for tourism flow based on lstm neural network,''
+  {\em Procedia Computer Science}, vol.~129, pp.~277--283, 2018.
+
+\bibitem{gers1999learning}
+F.~A. Gers, J.~Schmidhuber, and F.~Cummins, ``Learning to forget: Continual
+  prediction with lstm,'' 1999.
+
+\bibitem{wang2018research}
+D.~Wang, J.~Fan, H.~Fu, and B.~Zhang, ``Research on optimization of big data
+  construction engineering quality management based on rnn-lstm,'' {\em
+  Complexity}, vol.~2018, 2018.
+
+\bibitem{zhang2018use}
+D.~Zhang, G.~Lindholm, and H.~Ratnaweera, ``Use long short-term memory to
+  enhance internet of things for combined sewer overflow monitoring,'' {\em
+  Journal of hydrology}, vol.~556, pp.~409--418, 2018.
+
+\bibitem{allman1985stimulus}
+J.~Allman, F.~Miezin, and E.~McGuinness, ``Stimulus specific responses from
+  beyond the classical receptive field: neurophysiological mechanisms for
+  local-global comparisons in visual neurons,'' {\em Annual review of
+  neuroscience}, vol.~8, no.~1, pp.~407--430, 1985.
+
+\bibitem{el2016cnn}
+A.~El-Sawy, E.-B. Hazem, and M.~Loey, ``Cnn for handwritten arabic digits
+  recognition based on lenet-5,'' in {\em International Conference on Advanced
+  Intelligent Systems and Informatics}, pp.~566--575, Springer, 2016.
+
+\bibitem{russakovsky2015imagenet}
+O.~Russakovsky, J.~Deng, H.~Su, J.~Krause, S.~Satheesh, S.~Ma, Z.~Huang,
+  A.~Karpathy, A.~Khosla, M.~Bernstein, {\em et~al.}, ``Imagenet large scale
+  visual recognition challenge,'' {\em International journal of computer
+  vision}, vol.~115, no.~3, pp.~211--252, 2015.
+
+\bibitem{howard2013some}
+A.~G. Howard, ``Some improvements on deep convolutional neural network based
+  image classification,'' {\em arXiv preprint arXiv:1312.5402}, 2013.
+
+\bibitem{Ketkar2017Convolutional}
+N.~Ketkar, ``Convolutional neural networks,'' 2017.
+
+\bibitem{lin2013network}
+M.~Lin, Q.~Chen, and S.~Yan, ``Network in network,'' {\em arXiv preprint
+  arXiv:1312.4400}, 2013.
+
+\bibitem{schweiger2017understanding}
+M.~Schweiger, W.~Herrmann, A.~Gerber, and U.~Rau, ``Understanding the energy
+  yield of photovoltaic modules in different climates by linear performance
+  loss analysis of the module performance ratio,'' {\em IET Renewable Power
+  Generation}, vol.~11, no.~5, pp.~558--565, 2017.
+
+\bibitem{deo2017forecasting}
+R.~C. Deo and M.~{\c{S}}ahin, ``Forecasting long-term global solar radiation
+  with an ann algorithm coupled with satellite-derived (modis) land surface
+  temperature (lst) for regional locations in queensland,'' {\em Renewable and
+  Sustainable Energy Reviews}, vol.~72, pp.~828--848, 2017.
+
+\bibitem{antonanzas2016review}
+J.~Antonanzas, N.~Osorio, R.~Escobar, R.~Urraca, F.~J. Martinez-de Pison, and
+  F.~Antonanzas-Torres, ``Review of photovoltaic power forecasting,'' {\em
+  Solar Energy}, vol.~136, pp.~78--111, 2016.
+
+\bibitem{fathi2015automated}
+H.~Fathi, F.~Dai, and M.~Lourakis, ``Automated as-built 3d reconstruction of
+  civil infrastructure using computer vision: Achievements, opportunities, and
+  challenges,'' {\em Advanced Engineering Informatics}, vol.~29, no.~2,
+  pp.~149--161, 2015.
+
+\bibitem{agirre2006regression}
+E.~Agirre-Basurko, G.~Ibarra-Berastegi, and I.~Madariaga, ``Regression and
+  multilayer perceptron-based models to forecast hourly o3 and no2 levels in
+  the bilbao area,'' {\em Environmental Modelling \& Software}, vol.~21, no.~4,
+  pp.~430--446, 2006.
+
+\bibitem{cirecsan2012multi}
+D.~Cire{\c{s}}An, U.~Meier, J.~Masci, and J.~Schmidhuber, ``Multi-column deep
+  neural network for traffic sign classification,'' {\em Neural networks},
+  vol.~32, pp.~333--338, 2012.
+
+\bibitem{krizhevsky2012imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton, ``Imagenet classification with
+  deep convolutional neural networks,'' in {\em Advances in neural information
+  processing systems}, pp.~1097--1105, 2012.
+
+\bibitem{abdel2012applying}
+O.~Abdel-Hamid, A.-r. Mohamed, H.~Jiang, and G.~Penn, ``Applying convolutional
+  neural networks concepts to hybrid nn-hmm model for speech recognition,'' in
+  {\em 2012 IEEE international conference on Acoustics, speech and signal
+  processing (ICASSP)}, pp.~4277--4280, IEEE, 2012.
+
+\bibitem{nagi2011max}
+J.~Nagi, F.~Ducatelle, G.~A. Di~Caro, D.~Cire{\c{s}}an, U.~Meier, A.~Giusti,
+  F.~Nagi, J.~Schmidhuber, and L.~M. Gambardella, ``Max-pooling convolutional
+  neural networks for vision-based hand gesture recognition,'' in {\em 2011
+  IEEE International Conference on Signal and Image Processing Applications
+  (ICSIPA)}, pp.~342--347, IEEE, 2011.
+
+\bibitem{gomes2004comparison}
+H.~M. Gomes and A.~M. Awruch, ``Comparison of response surface and neural
+  network with other methods for structural reliability analysis,'' {\em
+  Structural safety}, vol.~26, no.~1, pp.~49--67, 2004.
+
+\bibitem{cheng2016long}
+J.~Cheng, L.~Dong, and M.~Lapata, ``Long short-term memory-networks for machine
+  reading,'' {\em arXiv preprint arXiv:1601.06733}, 2016.
+
+\bibitem{schuster1997bidirectional}
+M.~Schuster and K.~K. Paliwal, ``Bidirectional recurrent neural networks,''
+  {\em IEEE Transactions on Signal Processing}, vol.~45, no.~11,
+  pp.~2673--2681, 1997.
+
+\bibitem{zhu2014novel}
+X.~Zhu, H.-I. Suk, and D.~Shen, ``A novel matrix-similarity based loss function
+  for joint regression and classification in ad diagnosis,'' {\em NeuroImage},
+  vol.~100, pp.~91--105, 2014.
+
+\bibitem{willmott2005advantages}
+C.~J. Willmott and K.~Matsuura, ``Advantages of the mean absolute error (mae)
+  over the root mean square error (rmse) in assessing average model
+  performance,'' {\em Climate research}, vol.~30, no.~1, pp.~79--82, 2005.
+
+\bibitem{chai2014root}
+T.~Chai and R.~R. Draxler, ``Root mean square error (rmse) or mean absolute
+  error (mae)?--arguments against avoiding rmse in the literature,'' {\em
+  Geoscientific model development}, vol.~7, no.~3, pp.~1247--1250, 2014.
+
+\end{thebibliography}

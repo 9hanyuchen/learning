@@ -1,0 +1,93 @@
+\begin{thebibliography}{10}
+
+\bibitem{li2016multi}
+F.-F. Li and J.~Qiu, ``Multi-objective optimization for integrated
+  hydro--photovoltaic power system,'' {\em Applied energy}, vol.~167,
+  pp.~377--384, 2016.
+
+\bibitem{wan2015photovoltaic}
+C.~Wan, J.~Zhao, Y.~Song, Z.~Xu, J.~Lin, and Z.~Hu, ``Photovoltaic and solar
+  power forecasting for smart grid energy management,'' {\em CSEE Journal of
+  Power and Energy Systems}, vol.~1, no.~4, pp.~38--46, 2015.
+
+\bibitem{yang2014solar}
+H.~Yang, B.~Kurtz, D.~Nguyen, B.~Urquhart, C.~W. Chow, M.~Ghonima, and
+  J.~Kleissl, ``Solar irradiance forecasting using a ground-based sky imager
+  developed at uc san diego,'' {\em Solar Energy}, vol.~103, pp.~502--524,
+  2014.
+
+\bibitem{huld2012new}
+T.~Huld, R.~M{\"u}ller, and A.~Gambardella, ``A new solar radiation database
+  for estimating pv performance in europe and africa,'' {\em Solar Energy},
+  vol.~86, no.~6, pp.~1803--1815, 2012.
+
+\bibitem{schweiger2017understanding}
+M.~Schweiger, W.~Herrmann, A.~Gerber, and U.~Rau, ``Understanding the energy
+  yield of photovoltaic modules in different climates by linear performance
+  loss analysis of the module performance ratio,'' {\em IET Renewable Power
+  Generation}, vol.~11, no.~5, pp.~558--565, 2017.
+
+\bibitem{deo2017forecasting}
+R.~C. Deo and M.~{\c{S}}ahin, ``Forecasting long-term global solar radiation
+  with an ann algorithm coupled with satellite-derived (modis) land surface
+  temperature (lst) for regional locations in queensland,'' {\em Renewable and
+  Sustainable Energy Reviews}, vol.~72, pp.~828--848, 2017.
+
+\bibitem{antonanzas2016review}
+J.~Antonanzas, N.~Osorio, R.~Escobar, R.~Urraca, F.~J. Martinez-de Pison, and
+  F.~Antonanzas-Torres, ``Review of photovoltaic power forecasting,'' {\em
+  Solar Energy}, vol.~136, pp.~78--111, 2016.
+
+\bibitem{fathi2015automated}
+H.~Fathi, F.~Dai, and M.~Lourakis, ``Automated as-built 3d reconstruction of
+  civil infrastructure using computer vision: Achievements, opportunities, and
+  challenges,'' {\em Advanced Engineering Informatics}, vol.~29, no.~2,
+  pp.~149--161, 2015.
+
+\bibitem{yilmaz2009pitch}
+A.~S. Yilmaz and Z.~{\"O}zer, ``Pitch angle control in wind turbines above the
+  rated wind speed by multi-layer perceptron and radial basis function neural
+  networks,'' {\em Expert Systems with Applications}, vol.~36, no.~6,
+  pp.~9767--9775, 2009.
+
+\bibitem{quan2016fusionnet}
+T.~M. Quan, D.~G. Hildebrand, and W.-K. Jeong, ``Fusionnet: A deep fully
+  residual convolutional neural network for image segmentation in
+  connectomics,'' {\em arXiv preprint arXiv:1612.05360}, 2016.
+
+\bibitem{howard2013some}
+A.~G. Howard, ``Some improvements on deep convolutional neural network based
+  image classification,'' {\em arXiv preprint arXiv:1312.5402}, 2013.
+
+\bibitem{Ketkar2017Convolutional}
+N.~Ketkar, ``Convolutional neural networks,'' 2017.
+
+\bibitem{lin2013network}
+M.~Lin, Q.~Chen, and S.~Yan, ``Network in network,'' {\em arXiv preprint
+  arXiv:1312.4400}, 2013.
+
+\bibitem{liu2018wind}
+H.~Liu, X.-w. Mi, and Y.-f. Li, ``Wind speed forecasting method based on deep
+  learning strategy using empirical wavelet transform, long short term memory
+  neural network and elman neural network,'' {\em Energy conversion and
+  management}, vol.~156, pp.~498--514, 2018.
+
+\bibitem{li2018prediction}
+Y.~Li and H.~Cao, ``Prediction for tourism flow based on lstm neural network,''
+  {\em Procedia Computer Science}, vol.~129, pp.~277--283, 2018.
+
+\bibitem{gers1999learning}
+F.~A. Gers, J.~Schmidhuber, and F.~Cummins, ``Learning to forget: Continual
+  prediction with lstm,'' 1999.
+
+\bibitem{wang2018research}
+D.~Wang, J.~Fan, H.~Fu, and B.~Zhang, ``Research on optimization of big data
+  construction engineering quality management based on rnn-lstm,'' {\em
+  Complexity}, vol.~2018, 2018.
+
+\bibitem{zhang2018use}
+D.~Zhang, G.~Lindholm, and H.~Ratnaweera, ``Use long short-term memory to
+  enhance internet of things for combined sewer overflow monitoring,'' {\em
+  Journal of hydrology}, vol.~556, pp.~409--418, 2018.
+
+\end{thebibliography}

@@ -1,0 +1,31 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces basic model of neural unit\relax }}{6}{figure.caption.12}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces basic model of perceptron\relax }}{7}{figure.caption.13}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces basic model of MLP\relax }}{8}{figure.caption.14}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces basic model of CNN\relax }}{8}{figure.caption.16}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Characteristic curves of Sigmoid and Tanh functions\relax }}{11}{figure.caption.22}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Characteristic curves of relu function\relax }}{12}{figure.caption.23}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces The architecture of LSTM\relax }}{13}{figure.caption.25}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Constant error transmission structure\relax }}{13}{figure.caption.26}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Gate control structure\relax }}{14}{figure.caption.27}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces file names of sky images\relax }}{16}{figure.caption.30}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces sky images\relax }}{17}{figure.caption.31}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces photovoltaic data\relax }}{17}{figure.caption.32}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces basic MLP structure\relax }}{18}{figure.caption.37}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces CNNs structure\relax }}{19}{figure.caption.39}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Image encoder structure\relax }}{20}{figure.caption.40}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces LSTMs structure\relax }}{21}{figure.caption.42}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces MLP accuracy\relax }}{25}{figure.caption.49}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces CNNs accuracy\relax }}{26}{figure.caption.50}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces LSTMs accuracy\relax }}{26}{figure.caption.51}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces ss for mae\relax }}{27}{figure.caption.53}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces ss for rmse\relax }}{28}{figure.caption.54}
+\addvspace {10\p@ }
